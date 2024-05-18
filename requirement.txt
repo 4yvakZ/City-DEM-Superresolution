@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+tifffile
+rasterio
+opencv-python
+tqdm
+pydot-ng
